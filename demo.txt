@@ -1,2 +1,4 @@
 welcome to git
 this is my first git project
+my name is deepa
+i am a cse student
